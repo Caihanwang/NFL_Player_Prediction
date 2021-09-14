@@ -23,6 +23,7 @@ The raw data looks like:
 | Babineaux, Jonathan | 95     | defensive tackle | 74          | 300         | 10/12/81      | ATL  | libra     |
 | Davis, Dominique    | 4      | quarterback      | 75          | 210         | 7/17/89       | ATL  | cancer    |
 | Goodman, Malliciah  | 93     | defensive end    | 76          | 276         | 1/4/90        | ATL  | capricorn |  
+
 We need to create a model using this data and predict the best position for any given height and weight.
 <br>  
 <br>
