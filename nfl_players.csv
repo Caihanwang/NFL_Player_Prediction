@@ -1,0 +1,622 @@
+full_name,number,position,height (in),weight (lb),date_of_birth,team,sign
+"Alford, Robert",23,cornerback,70,186,11/1/88,ATL,scorpio
+"Babineaux, Jonathan",95,defensive tackle,74,300,10/12/81,ATL,libra
+"Davis, Dominique",4,quarterback,75,210,7/17/89,ATL,cancer
+"Goodman, Malliciah",93,defensive end,76,276,1/4/90,ATL,capricorn
+"Jackson, Steven",39,running back,74,240,7/22/83,ATL,cancer
+"Jerry, Peria",94,defensive tackle,74,295,8/23/84,ATL,virgo
+"Maponga, Stansly",90,defensive end,74,265,3/5/91,ATL,pisces
+"Massaquoi, Jonathan",96,defensive end,74,264,5/18/88,ATL,taurus
+"Matthews, Cliff",98,defensive end,76,268,8/5/89,ATL,leo
+"McClain, Robert",27,cornerback,69,195,7/22/88,ATL,cancer
+"Peters, Corey",91,defensive tackle,75,305,6/8/88,ATL,gemini
+"Renfree, Sean",12,quarterback,77,225,4/28/90,ATL,taurus
+"Rodgers, Jacquizz",32,running back,66,196,2/6/90,ATL,aquarius
+"Ryan, Matt",2,quarterback,76,217,5/17/85,ATL,taurus
+"Samuel, Asante",22,cornerback,70,185,1/6/81,ATL,capricorn
+"Smith, Antone",35,running back,69,192,9/17/85,ATL,virgo
+"Trufant, Desmond",21,cornerback,72,190,9/10/90,ATL,virgo
+"Umenyiora, Osi",50,defensive end,75,255,11/16/81,ATL,scorpio
+"Vaughan, Josh",30,running back,72,225,12/3/86,ATL,sagittarius
+"Branch, Alan",90,defensive end,78,325,12/29/84,BUF,capricorn
+"Brooks, Ron",33,cornerback,70,190,10/16/88,BUF,libra
+"Bryant, Corbin",97,defensive tackle,76,300,1/4/88,BUF,capricorn
+"Carrington, Alex",92,defensive end,77,301,6/19/87,BUF,gemini
+"Choice, Tashard",20,running back,70,210,11/20/84,BUF,scorpio
+"Dareus, Marcell",99,defensive tackle,75,331,3/13/90,BUF,pisces
+"Gilmore, Stephon",24,cornerback,73,190,9/19/90,BUF,virgo
+"Jackson, Fred",22,running back,73,216,2/20/81,BUF,pisces
+"Kolb, Kevin",4,quarterback,75,218,8/24/84,BUF,virgo
+"Lewis, Thad",9,quarterback,74,200,11/19/87,BUF,scorpio
+"Manuel, E.J.",3,quarterback,76,237,3/19/90,BUF,pisces
+"McKelvin, Leodis",21,cornerback,70,185,9/4/85,BUF,virgo
+"Ross, Jay",69,defensive tackle,75,319,10/3/87,BUF,libra
+"Spiller, C.J.",28,running back,71,200,8/5/87,BUF,leo
+"Tuel, Jeff",7,quarterback,75,221,2/12/91,BUF,aquarius
+"Williams, Kyle",95,defensive tackle,73,303,6/10/83,BUF,gemini
+"Williams, Mario",94,defensive end,78,292,1/31/85,BUF,aquarius
+"Bass, David",91,defensive end,76,256,9/11/90,CHI,virgo
+"Bush, Michael",29,running back,73,245,6/16/84,CHI,gemini
+"Cohen, Landon",97,defensive end,73,300,8/3/86,CHI,leo
+"Collins, Nate",93,defensive tackle,74,296,12/14/87,CHI,sagittarius
+"Cutler, Jay",6,quarterback,75,220,4/29/83,CHI,taurus
+"Ford, Michael",32,running back,70,216,5/27/90,CHI,gemini
+"Forte, Matt",22,running back,74,218,12/10/85,CHI,sagittarius
+"Frey, Isaiah",31,cornerback,72,190,4/6/90,CHI,aries
+"Hayden, Kelvin",24,cornerback,72,195,7/23/83,CHI,leo
+"Jennings, Tim",26,cornerback,68,185,12/24/83,CHI,capricorn
+"McClellin, Shea",99,defensive end,75,260,8/1/89,CHI,leo
+"McCown, Josh",12,quarterback,76,213,7/4/79,CHI,cancer
+"Melton, Henry",69,defensive tackle,75,295,10/11/86,CHI,libra
+"Minter, Zach",96,defensive tackle,73,297,11/6/90,CHI,scorpio
+"Paea, Stephen",92,defensive tackle,73,300,5/11/88,CHI,taurus
+"Peppers, Julius",90,defensive end,79,287,1/18/80,CHI,capricorn
+"Tillman, Charles",33,cornerback,74,198,2/23/81,CHI,pisces
+"Tupou, Christian",64,defensive tackle,74,300,5/7/89,CHI,taurus
+"Washington, Cornelius",94,defensive end,76,265,9/10/89,CHI,virgo
+"Wilson, C.J.",25,cornerback,71,187,11/18/89,CHI,scorpio
+"Wootton, Corey",98,defensive end,78,270,6/22/87,CHI,cancer
+"Atkins, Geno",97,defensive tackle,73,303,3/28/88,CIN,aries
+"Bernard, Gio",25,running back,69,208,11/22/91,CIN,scorpio
+"Burkhead, Rex",33,running back,70,218,7/2/90,CIN,cancer
+"Dalton, Andy",14,quarterback,74,220,10/29/87,CIN,scorpio
+"Dunlap, Carlos",96,defensive end,78,280,2/28/89,CIN,pisces
+"Evans, DeQuin",69,defensive end,74,265,5/17/87,CIN,taurus
+"Geathers, Robert",91,defensive end,75,280,8/11/83,CIN,leo
+"Gilberry, Wallace",95,defensive end,74,275,12/5/84,CIN,sagittarius
+"Green-Ellis, BenJarvus",42,running back,71,220,7/2/85,CIN,cancer
+"Hall, Leon",29,cornerback,71,195,12/9/84,CIN,sagittarius
+"Hunt, Margus",99,defensive end,80,280,7/14/87,CIN,cancer
+"Johnson, Josh",8,quarterback,75,205,5/15/86,CIN,taurus
+"Johnson, Michael",93,defensive end,79,270,2/7/87,CIN,aquarius
+"Jones, Adam",24,cornerback,70,180,9/30/83,CIN,libra
+"Kirkpatrick, Dre",27,cornerback,74,185,10/26/89,CIN,scorpio
+"Lewis-Harris, Chris",37,cornerback,70,180,2/11/89,CIN,aquarius
+"Newman, Terence",23,cornerback,70,192,9/4/78,CIN,virgo
+"Peerman, Cedric",30,running back,70,211,10/10/86,CIN,libra
+"Peko, Domata",94,defensive tackle,75,322,11/27/84,CIN,sagittarius
+"Robinson, Zac",5,quarterback,75,208,9/29/86,CIN,libra
+"Still, Devon",75,defensive tackle,77,320,7/11/89,CIN,cancer
+"Thompson, Brandon",98,defensive tackle,74,325,10/19/89,CIN,libra
+"Bademosi, Johnson",24,cornerback,72,200,7/23/90,CLE,leo
+"Bryant, Armonty",95,defensive end,76,265,5/20/90,CLE,taurus
+"Bryant, Desmond",92,defensive end,78,310,12/15/85,CLE,sagittarius
+"Campbell, Jason",17,quarterback,77,230,12/31/81,CLE,capricorn
+"Haden, Joe",23,cornerback,71,190,4/14/89,CLE,aries
+"Hoyer, Brian",6,quarterback,74,215,10/13/85,CLE,libra
+"Hughes, John",93,defensive tackle,74,320,4/27/88,CLE,taurus
+"Lewis, Dion",28,running back,68,195,9/27/90,CLE,libra
+"McFadden, Leon",29,cornerback,69,195,10/26/90,CLE,scorpio
+"McGahee, Willis",26,running back,72,235,10/21/81,CLE,libra
+"Ogbonnaya, Chris",25,running back,72,225,5/5/86,CLE,taurus
+"Owens, Chris",21,cornerback,69,180,12/1/86,CLE,sagittarius
+"Rainey, Bobby",34,running back,68,212,10/16/87,CLE,libra
+"Rubin, Ahtyba",71,defensive end,74,330,7/25/86,CLE,leo
+"Skrine, Buster",22,cornerback,69,185,4/26/89,CLE,taurus
+"Weeden, Brandon",3,quarterback,75,220,10/14/83,CLE,libra
+"Whittaker, Fozzy",35,running back,70,202,2/2/89,CLE,aquarius
+"Winn, Billy",90,defensive end,76,295,4/15/89,CLE,aries
+"Canty, Chris",99,defensive end,79,317,11/10/82,BAL,scorpio
+"Flacco, Joe",5,quarterback,78,245,1/16/85,BAL,capricorn
+"Graham, Corey",24,cornerback,72,196,7/25/85,BAL,leo
+"Jackson, Asa",25,cornerback,70,182,12/2/89,BAL,sagittarius
+"Jones, Arthur",97,defensive end,75,315,6/3/86,BAL,gemini
+"Juszczyk, Kyle",40,running back,73,245,4/23/91,BAL,taurus
+"Pierce, Bernard",30,running back,72,218,5/10/90,BAL,taurus
+"Rice, Ray",27,running back,68,212,1/22/87,BAL,aquarius
+"Smith, Jimmy",22,cornerback,74,200,7/26/88,BAL,leo
+"Spears, Marcus",96,defensive end,76,315,3/8/83,BAL,pisces
+"Taylor, Tyrod",2,quarterback,73,215,8/3/89,BAL,leo
+"Tyson, DeAngelo",93,defensive end,74,315,4/12/89,BAL,aries
+"Webb, Lardarius",21,cornerback,70,182,10/12/85,BAL,libra
+"Williams, Brandon",98,defensive tackle,73,335,2/21/89,BAL,pisces
+"Bass, Ben",79,defensive end,77,294,10/12/89,DAL,libra
+"Carr, Brandon",39,cornerback,72,206,5/19/86,DAL,taurus
+"Carter, David",79,defensive tackle,77,300,12/10/87,DAL,sagittarius
+"Claiborne, Morris",24,cornerback,71,190,2/7/90,DAL,aquarius
+"Crawford, Tyrone",98,defensive end,76,284,11/22/89,DAL,scorpio
+"Dunbar, Lance",25,running back,68,188,1/25/90,DAL,aquarius
+"Greenwood, Chris",33,cornerback,73,193,7/10/89,DAL,cancer
+"Hatcher, Jason",97,defensive tackle,78,299,7/13/82,DAL,cancer
+"Hayden, Nick",96,defensive tackle,76,301,2/4/86,DAL,aquarius
+"Jones, Edgar",55,defensive end,76,262,12/1/84,DAL,sagittarius
+"Murray, DeMarco",29,running back,72,219,2/12/88,DAL,aquarius
+"Nevis, Drake",70,defensive tackle,73,310,5/8/89,DAL,taurus
+"Orton, Kyle",18,quarterback,76,228,11/14/82,DAL,scorpio
+"Randle, Joseph",21,running back,72,198,12/29/91,DAL,capricorn
+"Rayford, Caesar",95,defensive end,79,267,3/4/86,DAL,pisces
+"Romo, Tony",9,quarterback,74,236,4/21/80,DAL,taurus
+"Scandrick, Orlando",32,cornerback,70,195,2/10/87,DAL,aquarius
+"Selvie, George",99,defensive end,76,270,3/6/87,DAL,pisces
+"Spencer, Anthony",93,defensive end,75,262,1/23/84,DAL,aquarius
+"Tanner, Phillip",34,running back,70,208,8/8/88,DAL,leo
+"Ware, DeMarcus",94,defensive end,76,258,7/31/82,DAL,leo
+"Webb, B.W.",20,cornerback,70,178,5/3/90,DAL,taurus
+"Wilber, Kyle",51,defensive end,76,250,4/26/89,DAL,taurus
+"Anderson, C.J.",39,running back,68,224,2/10/91,DEN,aquarius
+"Ayers, Robert",91,defensive end,75,274,9/6/85,DEN,virgo
+"Bailey, Champ",24,cornerback,72,192,6/22/78,DEN,cancer
+"Ball, Montee",28,running back,70,215,12/5/90,DEN,sagittarius
+"Bolden, Omar",31,cornerback,70,195,12/20/88,DEN,sagittarius
+"Dysert, Zac",2,quarterback,75,221,2/8/90,DEN,aquarius
+"Harris, Chris",25,cornerback,70,199,6/18/89,DEN,gemini
+"Hillman, Ronnie",21,running back,70,195,9/14/91,DEN,virgo
+"Jackson, Malik",97,defensive end,77,293,1/11/90,DEN,capricorn
+"Jammer, Quentin",23,cornerback,72,204,6/19/79,DEN,gemini
+"Knighton, Terrance",94,defensive tackle,75,335,7/4/86,DEN,cancer
+"Manning, Peyton",18,quarterback,77,230,3/24/76,DEN,aries
+"Moreno, Knowshon",27,running back,71,220,7/16/87,DEN,cancer
+"Osweiler, Brock",17,quarterback,80,240,11/22/90,DEN,scorpio
+"Phillips, Shaun",90,defensive end,75,255,5/13/81,DEN,taurus
+"Rodgers-Cromartie, Dominique",45,cornerback,74,193,4/7/86,DEN,aries
+"Smith, Quanterus",69,defensive end,77,255,11/26/89,DEN,sagittarius
+"Unrein, Mitch",96,defensive tackle,76,306,3/25/87,DEN,aries
+"Vickerson, Kevin",99,defensive tackle,77,328,1/8/83,DEN,capricorn
+"Webster, Kayvon",36,cornerback,71,198,2/1/91,DEN,aquarius
+"Williams, Sylvester",92,defensive tackle,74,313,11/21/88,DEN,scorpio
+"Wolfe, Derek",95,defensive end,77,285,2/24/90,DEN,pisces
+"Ansah, Ezekiel",94,defensive end,77,271,5/29/89,DET,gemini
+"Bell, Joique",35,running back,71,220,8/4/86,DET,leo
+"Bentley, Bill",28,cornerback,70,176,5/16/89,DET,taurus
+"Bush, Reggie",21,running back,72,203,3/2/85,DET,pisces
+"Fairley, Nick",98,defensive tackle,76,298,1/23/88,DET,aquarius
+"Fluellen, Andre",96,defensive tackle,74,302,3/7/85,DET,pisces
+"Green, Jonte",36,cornerback,72,184,7/19/89,DET,cancer
+"Hill, Shaun",14,quarterback,75,220,1/9/80,DET,capricorn
+"Houston, Chris",23,cornerback,71,178,10/18/84,DET,libra
+"Idonije, Israel",77,defensive end,78,275,11/17/80,DET,scorpio
+"Jones, Jason",91,defensive end,77,276,5/23/86,DET,gemini
+"Leshoure, Mikel",25,running back,72,233,3/30/90,DET,aries
+"Mathis, Rashean",31,cornerback,73,195,8/27/80,DET,virgo
+"Moore, Kellen",17,quarterback,72,197,7/12/89,DET,cancer
+"Mosley, C.J.",99,defensive tackle,74,310,8/6/83,DET,leo
+"Owens, Montell",34,running back,70,225,5/4/84,DET,taurus
+"Riddick, Theo",41,running back,69,200,5/4/91,DET,taurus
+"Slay, Darius",30,cornerback,72,192,1/1/91,DET,capricorn
+"Stafford, Matthew",9,quarterback,75,232,2/7/88,DET,aquarius
+"Suh, Ndamukong",90,defensive tackle,76,307,1/6/87,DET,capricorn
+"Taylor, Devin",92,defensive end,79,267,11/15/89,DET,scorpio
+"Young, Willie",79,defensive end,76,251,9/19/85,DET,virgo
+"Boyd, Josh",93,defensive end,75,310,8/3/89,GB,leo
+"Bush, Jarrett",24,cornerback,72,200,5/21/84,GB,taurus
+"Daniels, Mike",76,defensive end,72,291,5/5/89,GB,taurus
+"Franklin, Johnathan",23,running back,70,205,10/23/89,GB,libra
+"Harris, DuJuan",26,running back,68,203,9/3/88,GB,virgo
+"Hayward, Casey",29,cornerback,71,192,9/9/89,GB,virgo
+"Hill, Michael",34,running back,71,205,8/14/89,GB,leo
+"House, Davon",31,cornerback,72,195,7/10/89,GB,cancer
+"Hyde, Micah",33,cornerback,72,197,12/31/90,GB,capricorn
+"Jolly, Johnny",97,defensive end,75,325,2/21/83,GB,pisces
+"Jones, Datone",95,defensive end,76,285,7/24/90,GB,leo
+"Lacy, Eddie",27,running back,71,230,6/2/90,GB,gemini
+"Neal, Mike",96,defensive end,75,285,6/26/87,GB,cancer
+"Nixon, James",25,cornerback,72,186,2/2/88,GB,aquarius
+"Raji, B.J.",90,defensive end,74,337,7/11/86,GB,cancer
+"Rodgers, Aaron",12,quarterback,74,225,12/2/83,GB,sagittarius
+"Shields, Sam",37,cornerback,71,184,12/8/87,GB,sagittarius
+"Starks, James",44,running back,74,218,2/25/86,GB,pisces
+"Wallace, Seneca",9,quarterback,71,205,8/6/80,GB,leo
+"Williams, Tramon",38,cornerback,71,191,3/16/83,GB,pisces
+"Wilson, C.J.",98,defensive end,75,306,3/30/87,GB,aries
+"Worthy, Jerel",99,defensive end,74,308,4/28/90,GB,taurus
+"Battle, Jackie",22,running back,74,240,10/1/83,TEN,libra
+"Casey, Jurrell",99,defensive tackle,73,305,12/5/89,TEN,sagittarius
+"Edwards, Lavar",98,defensive end,76,277,4/29/90,TEN,taurus
+"Fitzpatrick, Ryan",4,quarterback,74,223,11/24/82,TEN,sagittarius
+"Greene, Shonn",23,running back,71,233,8/21/85,TEN,leo
+"Hill, Sammie Lee",94,defensive tackle,76,328,11/8/86,TEN,scorpio
+"Johnson, Antonio",90,defensive tackle,75,328,12/8/84,TEN,sagittarius
+"Johnson, Chris",28,running back,71,203,9/23/85,TEN,virgo
+"Klug, Karl",97,defensive tackle,75,278,3/31/88,TEN,aries
+"Locker, Jake",10,quarterback,75,223,6/15/88,TEN,gemini
+"Martin, Mike",93,defensive tackle,73,298,9/1/90,TEN,virgo
+"McCourty, Jason",30,cornerback,72,193,8/13/87,TEN,leo
+"Morgan, Derrick",91,defensive end,75,271,1/6/89,TEN,capricorn
+"Pitoitua, Ropati",92,defensive end,80,298,4/6/85,TEN,aries
+"Reynaud, Darius",25,running back,69,208,12/29/84,TEN,capricorn
+"Sensabaugh, Coty",24,cornerback,71,187,11/15/88,TEN,scorpio
+"Smith, Rusty",11,quarterback,77,226,1/28/87,TEN,aquarius
+"Verner, Alterraun",20,cornerback,70,187,12/13/88,TEN,sagittarius
+"Wimbley, Kamerion",95,defensive end,76,258,10/13/83,TEN,libra
+"Wreh-Wilson, Blidi",29,cornerback,73,198,12/5/89,TEN,sagittarius
+"Ballard, Vick",33,running back,70,224,7/16/90,IND,cancer
+"Bradshaw, Ahmad",44,running back,70,214,3/19/86,IND,pisces
+"Brown, Donald",31,running back,70,207,4/11/87,IND,aries
+"Chapman, Josh",96,defensive tackle,72,341,6/10/89,IND,gemini
+"Davis, Vontae",23,cornerback,71,204,5/27/88,IND,gemini
+"Hasselbeck, Matt",8,quarterback,76,235,9/25/75,IND,libra
+"Hughes, Montori",94,defensive tackle,76,335,8/25/90,IND,virgo
+"Jean Francois, Ricky",99,defensive end,75,297,11/23/86,IND,sagittarius
+"Luck, Andrew",12,quarterback,76,239,9/12/89,IND,virgo
+"Mathews, Ricardo",91,defensive tackle,75,300,7/30/87,IND,leo
+"Moala, Fili",95,defensive end,76,308,6/23/85,IND,cancer
+"Redding, Cory",90,defensive end,76,318,11/15/80,IND,scorpio
+"Richardson, Trent",34,running back,69,225,7/10/91,IND,cancer
+"Toler, Greg",28,cornerback,72,190,1/2/85,IND,capricorn
+"Vaughn, Cassius",32,cornerback,71,199,11/3/87,IND,scorpio
+"Bailey, Allen",97,defensive end,75,288,3/25/89,KC,aries
+"Bray, Tyler",9,quarterback,78,215,12/27/91,KC,capricorn
+"Catapano, Mike",77,defensive end,75,270,8/17/90,KC,leo
+"Charles, Jamaal",25,running back,71,199,12/27/86,KC,capricorn
+"Commings, Sanders",26,cornerback,72,223,3/8/90,KC,pisces
+"Cooper, Marcus",31,cornerback,73,192,2/1/90,KC,aquarius
+"Daniel, Chase",10,quarterback,72,225,10/7/86,KC,libra
+"Davis, Knile",34,running back,70,227,10/5/91,KC,libra
+"DeVito, Mike",70,defensive end,75,305,6/10/84,KC,gemini
+"Flowers, Brandon",24,cornerback,69,187,2/18/86,KC,aquarius
+"Gray, Cyrus",32,running back,70,206,11/18/89,KC,scorpio
+"Howard, Jaye",96,defensive tackle,75,301,12/20/88,KC,sagittarius
+"Jackson, Tyson",94,defensive end,76,296,6/6/86,KC,gemini
+"Robinson, Dunta",21,cornerback,70,183,4/11/82,KC,aries
+"Smith, Alex",11,quarterback,76,217,5/7/84,KC,taurus
+"Smith, Sean",27,cornerback,75,218,7/14/87,KC,cancer
+"Toribio, Anthony",98,defensive tackle,73,315,3/1/85,KC,pisces
+"Adams, Phillip",28,cornerback,71,195,7/20/88,OAK,cancer
+"Bilukidi, Christo",96,defensive tackle,77,320,12/13/89,OAK,sagittarius
+"Crawford, Jack",91,defensive end,77,281,9/7/88,OAK,virgo
+"Hayden, D.J.",25,cornerback,71,190,6/27/90,OAK,cancer
+"Houston, Lamarr",99,defensive end,75,300,6/24/87,OAK,cancer
+"Hunter, Jason",93,defensive end,76,270,8/28/83,OAK,virgo
+"Jenkins, Mike",21,cornerback,70,197,3/22/85,OAK,aries
+"Jennings, Rashad",27,running back,73,231,3/26/85,OAK,aries
+"McFadden, Darren",20,running back,73,218,8/27/87,OAK,virgo
+"McGee, Stacy",92,defensive tackle,75,310,1/17/90,OAK,capricorn
+"McGloin, Matthew",14,quarterback,73,210,12/2/89,OAK,sagittarius
+"Murray, Latavius",34,running back,75,230,1/18/90,OAK,capricorn
+"Olawale, Jamize",49,running back,73,240,4/17/89,OAK,aries
+"Porter, Tracy",23,cornerback,71,188,8/11/86,OAK,leo
+"Pryor, Terrelle",2,quarterback,76,233,6/20/89,OAK,gemini
+"Robinson, Ryan",58,defensive end,76,255,12/9/90,OAK,sagittarius
+"Sanford, Brian",75,defensive end,74,280,9/12/87,OAK,virgo
+"Sims, Pat",90,defensive tackle,74,310,11/29/85,OAK,sagittarius
+"Walker, Vance",98,defensive tackle,74,305,4/26/87,OAK,taurus
+"Bradford, Sam",8,quarterback,76,224,11/8/87,STL,scorpio
+"Brockers, Michael",90,defensive tackle,77,326,12/21/90,STL,sagittarius
+"Clemens, Kellen",10,quarterback,74,221,6/7/83,STL,gemini
+"Conrath, Matt",71,defensive tackle,79,306,8/11/89,STL,leo
+"Cudjo, Jermelle",93,defensive tackle,74,304,9/28/86,STL,libra
+"Cunningham, Benny",36,running back,70,217,7/7/90,STL,cancer
+"Finnegan, Cortland",31,cornerback,70,179,2/2/84,STL,aquarius
+"Hayes, William",95,defensive end,75,278,5/2/85,STL,taurus
+"Jenkins, Janoris",21,cornerback,70,198,10/29/88,STL,scorpio
+"Johnson, Trumaine",22,cornerback,74,208,1/1/90,STL,capricorn
+"Langford, Kendall",98,defensive tackle,78,313,1/27/86,STL,aquarius
+"Long, Chris",91,defensive end,75,268,3/28/85,STL,aries
+"McGee, Brandon",32,cornerback,71,193,12/11/90,STL,sagittarius
+"Pead, Isaiah",24,running back,70,197,12/14/89,STL,sagittarius
+"Quinn, Robert",94,defensive end,76,264,5/18/90,STL,taurus
+"Reynolds, Chase",34,running back,72,205,10/22/87,STL,libra
+"Richardson, Daryl",26,running back,70,206,4/12/90,STL,aries
+"Rivers, Gerald",99,defensive end,77,258,6/22/90,STL,cancer
+"Sims, Eugene",97,defensive end,78,269,3/18/86,STL,pisces
+"Stacy, Zac",30,running back,68,224,4/9/91,STL,aries
+"Austin, Marvin",58,defensive tackle,74,312,1/10/89,MIA,capricorn
+"Carroll, Nolan",28,cornerback,73,205,1/18/87,MIA,capricorn
+"Davis, Will",29,cornerback,71,190,5/8/90,MIA,taurus
+"Devlin, Pat",7,quarterback,75,225,4/12/88,MIA,aries
+"Gillislee, Mike",23,running back,71,213,11/1/90,MIA,scorpio
+"Grimes, Brent",21,cornerback,70,190,7/19/83,MIA,cancer
+"Jordan, Dion",95,defensive end,78,260,3/5/90,MIA,pisces
+"Martin, Vaughn",90,defensive end,76,300,4/18/86,MIA,aries
+"Miller, Lamar",26,running back,70,216,4/25/91,MIA,taurus
+"Moore, Matt",8,quarterback,75,216,8/9/84,MIA,leo
+"Odrick, Jared",98,defensive tackle,77,302,12/31/87,MIA,capricorn
+"Patterson, Dimitri",24,cornerback,70,200,6/18/83,MIA,gemini
+"Shelby, Derrick",79,defensive end,74,280,3/4/89,MIA,pisces
+"Soliai, Paul",96,defensive tackle,76,340,12/30/83,MIA,capricorn
+"Starks, Randy",94,defensive tackle,75,305,12/14/83,MIA,sagittarius
+"Tannehill, Ryan",17,quarterback,76,222,7/27/88,MIA,leo
+"Taylor, Jamar",22,cornerback,70,195,9/29/90,MIA,libra
+"Thigpen, Marcus",34,running back,69,195,5/15/86,MIA,taurus
+"Thomas, Daniel",33,running back,73,235,10/29/87,MIA,scorpio
+"Vernon, Olivier",50,defensive end,74,268,10/7/90,MIA,libra
+"Wake, Cameron",91,defensive end,75,258,1/30/82,MIA,aquarius
+"Allen, Jared",69,defensive end,78,270,4/3/82,MIN,aries
+"Asiata, Matt",44,running back,72,234,7/24/87,MIN,leo
+"Baker, Chase",91,defensive tackle,73,300,5/21/88,MIN,taurus
+"Cassel, Matt",16,quarterback,76,228,5/17/82,MIN,taurus
+"Cook, Chris",20,cornerback,74,212,2/15/87,MIN,aquarius
+"Evans, Fred",90,defensive tackle,76,305,11/6/83,MIN,scorpio
+"Felder, Bobby",31,cornerback,71,200,9/23/90,MIN,virgo
+"Floyd, Sharrif",95,defensive tackle,75,305,5/28/91,MIN,gemini
+"Freeman, Josh",5,quarterback,78,240,1/13/88,MIN,capricorn
+"Gerhart, Toby",32,running back,72,231,3/28/87,MIN,aries
+"Griffen, Everson",97,defensive end,75,273,12/22/87,MIN,capricorn
+"Guion, Letroy",98,defensive tackle,76,303,6/21/87,MIN,gemini
+"Jefferson, A.J.",24,cornerback,73,190,4/4/88,MIN,aries
+"Peterson, Adrian",28,running back,73,217,3/21/85,MIN,aries
+"Ponder, Christian",7,quarterback,74,229,2/25/88,MIN,pisces
+"Rhodes, Xavier",29,cornerback,73,210,6/19/90,MIN,gemini
+"Robinson, Josh",21,cornerback,70,199,1/8/91,MIN,capricorn
+"Robison, Brian",96,defensive end,75,259,4/27/83,MIN,taurus
+"Sherels, Marcus",35,cornerback,70,175,9/30/87,MIN,libra
+"Williams, Kevin",93,defensive tackle,77,311,8/16/80,MIN,leo
+"Arrington, Kyle",25,cornerback,70,190,8/12/86,NE,leo
+"Bequette, Jake",92,defensive end,77,265,2/21/89,NE,pisces
+"Blount, LeGarrette",29,running back,72,250,12/5/86,NE,sagittarius
+"Bolden, Brandon",38,running back,71,220,1/26/90,NE,aquarius
+"Brady, Tom",12,quarterback,76,225,8/3/77,NE,leo
+"Buchanan, Michael",99,defensive end,77,255,1/24/91,NE,aquarius
+"Dennard, Alfonzo",37,cornerback,70,200,9/9/89,NE,virgo
+"Grissom, Cory",67,defensive tackle,74,316,6/9/90,NE,gemini
+"Jones, Chandler",95,defensive end,77,265,2/27/90,NE,pisces
+"Jones, Chris",94,defensive tackle,73,309,7/12/90,NE,cancer
+"Kelly, Tommy",93,defensive tackle,78,310,12/27/80,NE,capricorn
+"Mallett, Ryan",15,quarterback,78,245,6/5/88,NE,gemini
+"Ninkovich, Rob",50,defensive end,74,260,2/1/84,NE,aquarius
+"Ridley, Stevan",22,running back,71,220,1/27/89,NE,aquarius
+"Talib, Aqib",31,cornerback,73,205,2/13/86,NE,aquarius
+"Vellano, Joe",72,defensive tackle,73,300,10/30/88,NE,scorpio
+"Vereen, Shane",34,running back,70,205,5/2/89,NE,taurus
+"Washington, Leon",33,running back,68,203,8/29/82,NE,virgo
+"Wilfork, Vince",75,defensive tackle,74,325,11/4/81,NE,scorpio
+"Brees, Drew",9,quarterback,72,209,1/15/79,NO,capricorn
+"Bunkley, Brodrick",77,defensive tackle,74,306,11/23/83,NO,sagittarius
+"Cadet, Travaris",39,running back,73,210,2/1/89,NO,aquarius
+"Coleman, Kenyon",99,defensive end,77,293,4/10/79,NO,aries
+"Davis, A.J.",20,cornerback,72,183,7/6/89,NO,cancer
+"Foster, Glenn",97,defensive end,76,285,5/31/90,NO,gemini
+"Greer, Jabari",33,cornerback,71,180,2/11/82,NO,aquarius
+"Hicks, Akiem",76,defensive end,77,324,11/16/89,NO,scorpio
+"Ingram, Mark",22,running back,69,215,12/21/89,NO,sagittarius
+"Johnson, Tom",96,defensive tackle,75,288,8/30/84,NO,virgo
+"Jordan, Cameron",94,defensive end,76,287,7/10/89,NO,cancer
+"Lewis, Keenan",28,cornerback,73,208,5/17/86,NO,taurus
+"McCown, Luke",7,quarterback,76,217,7/12/81,NO,cancer
+"Robinson, Khiry",29,running back,72,220,12/28/89,NO,capricorn
+"Robinson, Patrick",21,cornerback,71,191,9/7/87,NO,virgo
+"Sproles, Darren",43,running back,66,190,6/20/83,NO,gemini
+"Sweeting, Rod",38,cornerback,71,187,9/28/90,NO,libra
+"Thomas, Pierre",23,running back,71,215,12/18/84,NO,sagittarius
+"Walker, Tyrunn",75,defensive end,75,294,3/18/90,NO,pisces
+"White, Corey",24,cornerback,73,205,5/9/90,NO,taurus
+"Amukamara, Prince",20,cornerback,72,207,6/6/89,NYG,gemini
+"Brown, Andre",35,running back,72,227,12/15/86,NYG,sagittarius
+"Conner, John",32,running back,71,245,6/8/87,NYG,gemini
+"Cox, Michael",29,running back,72,220,11/14/88,NYG,scorpio
+"Hankins, Johnathan",96,defensive tackle,74,320,3/30/92,NYG,aries
+"Hosley, Jayron",28,cornerback,70,178,9/18/90,NYG,virgo
+"Jacobs, Brandon",34,running back,76,264,7/6/82,NYG,cancer
+"Jenkins, Cullen",99,defensive tackle,74,305,1/20/81,NYG,capricorn
+"Joseph, Linval",97,defensive tackle,76,323,10/10/88,NYG,libra
+"Kiwanuka, Mathias",94,defensive end,77,267,3/8/83,NYG,pisces
+"Kuhn, Markus",78,defensive tackle,76,299,5/5/86,NYG,taurus
+"Manning, Eli",10,quarterback,76,218,1/3/81,NYG,capricorn
+"McBride, Trumaine",38,cornerback,69,185,9/24/85,NYG,libra
+"Moore, Damontre",98,defensive end,77,250,9/11/92,NYG,virgo
+"Nassib, Ryan",9,quarterback,74,223,3/10/90,NYG,pisces
+"Painter, Curtis",17,quarterback,76,230,6/24/85,NYG,cancer
+"Patterson, Mike",93,defensive tackle,73,300,9/1/83,NYG,virgo
+"Pierre-Paul, Jason",90,defensive end,77,278,1/1/89,NYG,capricorn
+"Rogers, Shaun",95,defensive tackle,76,350,3/12/79,NYG,pisces
+"Ross, Aaron",31,cornerback,72,190,9/15/82,NYG,virgo
+"Scott, Da'Rel",33,running back,71,210,5/26/88,NYG,gemini
+"Tuck, Justin",91,defensive end,77,268,3/29/83,NYG,aries
+"Webster, Corey",23,cornerback,72,200,3/2/82,NYG,pisces
+"Wilson, David",22,running back,69,205,6/15/91,NYG,gemini
+"Cromartie, Antonio",31,cornerback,74,210,4/15/84,NYJ,aries
+"Douzable, Leger",78,defensive tackle,76,284,5/31/86,NYJ,gemini
+"Ellis, Kenrick",93,defensive tackle,76,346,12/10/87,NYJ,sagittarius
+"Goodson, Mike",23,running back,72,210,5/23/87,NYJ,gemini
+"Green, Alex",25,running back,74,220,6/23/88,NYJ,cancer
+"Griffin, John",24,running back,71,208,12/17/88,NYJ,sagittarius
+"Ivory, Chris",33,running back,72,222,3/22/88,NYJ,aries
+"Milliner, Dee",27,cornerback,72,201,9/14/91,NYJ,virgo
+"Powell, Bilal",29,running back,70,204,10/27/88,NYJ,scorpio
+"Quinn, Brady",9,quarterback,75,235,10/27/84,NYJ,scorpio
+"Richardson, Sheldon",91,defensive end,75,294,11/29/90,NYJ,sagittarius
+"Sanchez, Mark",6,quarterback,74,225,11/11/86,NYJ,scorpio
+"Simms, Matt",5,quarterback,75,210,9/27/88,NYJ,libra
+"Smith, Geno",7,quarterback,74,221,10/10/90,NYJ,libra
+"Walls, Darrin",30,cornerback,72,190,6/20/88,NYJ,gemini
+"Wilkerson, Muhammad",96,defensive end,76,315,10/22/89,NYJ,libra
+"Wilson, Kyle",20,cornerback,70,190,5/30/87,NYJ,gemini
+"Barkley, Matt",2,quarterback,74,227,9/8/90,PHI,virgo
+"Boykin, Brandon",22,cornerback,70,185,7/13/90,PHI,cancer
+"Brown, Bryce",34,running back,72,220,5/14/91,PHI,taurus
+"Cox, Fletcher",91,defensive end,76,300,12/13/90,PHI,sagittarius
+"Curry, Vinny",75,defensive end,75,279,6/30/88,PHI,cancer
+"Fletcher, Bradley",24,cornerback,72,200,6/25/86,PHI,cancer
+"Foles, Nick",9,quarterback,78,243,1/20/89,PHI,capricorn
+"Geathers, Clifton",90,defensive end,80,340,12/11/87,PHI,sagittarius
+"Hunt, Phillip",56,defensive end,73,254,1/10/86,PHI,capricorn
+"Kruger, Joe",73,defensive end,78,269,6/4/92,PHI,gemini
+"Logan, Bennie",96,defensive tackle,74,309,12/28/89,PHI,capricorn
+"McCoy, LeSean",25,running back,71,208,7/12/88,PHI,cancer
+"Polk, Chris",32,running back,71,222,12/16/89,PHI,sagittarius
+"Poyer, Jordan",33,cornerback,72,191,4/25/91,PHI,taurus
+"Prater, Shaun",31,cornerback,70,190,10/27/89,PHI,scorpio
+"Square, Damion",77,defensive end,74,293,2/6/89,PHI,aquarius
+"Thornton, Cedric",72,defensive end,76,309,6/21/88,PHI,gemini
+"Vick, Michael",7,quarterback,72,215,6/26/80,PHI,cancer
+"Williams, Cary",26,cornerback,73,190,12/23/84,PHI,capricorn
+"Allen, Cortez",28,cornerback,73,196,10/29/88,PIT,scorpio
+"Bell, Le'Veon",26,running back,73,244,2/18/92,PIT,aquarius
+"Dwyer, Jonathan",27,running back,71,229,7/26/89,PIT,leo
+"Fangupo, Hebron",92,defensive tackle,72,324,7/19/85,PIT,cancer
+"Gay, William",22,cornerback,70,190,1/1/85,PIT,capricorn
+"Gradkowski, Bruce",5,quarterback,73,220,1/27/83,PIT,aquarius
+"Heyward, Cameron",97,defensive end,77,288,5/6/89,PIT,taurus
+"Hood, Ziggy",96,defensive end,75,300,2/16/87,PIT,aquarius
+"Jones, Felix",23,running back,70,215,5/8/87,PIT,taurus
+"Jones, Landry",3,quarterback,75,221,4/4/89,PIT,aries
+"Keisel, Brett",99,defensive end,77,285,9/19/78,PIT,virgo
+"Redman, Isaac",33,running back,72,230,11/10/84,PIT,scorpio
+"Roethlisberger, Ben",7,quarterback,77,241,3/2/82,PIT,pisces
+"Stephens-Howling, LaRod",34,running back,67,185,4/26/87,PIT,taurus
+"Taylor, Ike",24,cornerback,74,195,5/5/80,PIT,taurus
+"Williams, Nick",91,defensive tackle,76,310,2/21/90,PIT,pisces
+"Woods, Al",65,defensive tackle,76,307,3/25/87,PIT,aries
+"Brown, Ronnie",23,running back,72,223,12/12/81,SD,sagittarius
+"Butler, Crezdon",20,cornerback,73,191,5/26/87,SD,gemini
+"Cox, Derek",22,cornerback,73,195,9/22/86,SD,virgo
+"Lissemore, Sean",98,defensive tackle,75,303,9/11/87,SD,virgo
+"Liuget, Corey",94,defensive end,74,300,3/18/90,SD,pisces
+"Marshall, Richard",31,cornerback,71,198,12/12/84,SD,sagittarius
+"Mathews, Ryan",24,running back,72,220,10/10/87,SD,libra
+"Patrick, Johnny",26,cornerback,71,190,8/17/88,SD,leo
+"Reyes, Kendall",91,defensive end,76,300,9/26/89,SD,libra
+"Rivers, Philip",17,quarterback,77,228,12/8/81,SD,sagittarius
+"Sorensen, Brad",4,quarterback,77,230,3/13/88,SD,pisces
+"Whitehurst, Charlie",6,quarterback,77,226,8/6/82,SD,leo
+"Williams, Steve",27,cornerback,70,185,3/7/91,SD,pisces
+"Woodhead, Danny",39,running back,68,200,1/25/85,SD,aquarius
+"Wright, Shareece",29,cornerback,71,182,4/8/87,SD,aries
+"Asomugha, Nnamdi",28,cornerback,74,210,7/6/81,SF,cancer
+"Brown, Tarell",25,cornerback,70,193,1/6/85,SF,capricorn
+"Dixon, Anthony",24,running back,73,233,9/24/87,SF,libra
+"Gore, Frank",21,running back,69,217,5/14/83,SF,taurus
+"Hunter, Kendall",32,running back,67,199,9/16/88,SF,virgo
+"James, LaMichael",23,running back,69,195,10/22/89,SF,libra
+"Jerod-Eddie, Tony",63,defensive end,77,301,3/29/90,SF,aries
+"Kaepernick, Colin",7,quarterback,76,230,11/3/87,SF,scorpio
+"McCoy, Colt",2,quarterback,73,215,9/5/86,SF,virgo
+"McDonald, Ray",91,defensive end,75,290,9/2/84,SF,virgo
+"Okoye, Lawrence",78,defensive end,78,304,10/6/91,SF,libra
+"Rogers, Carlos",22,cornerback,72,192,7/2/81,SF,cancer
+"Smith, Justin",94,defensive end,76,285,9/30/79,SF,libra
+"Avril, Cliff",56,defensive end,75,260,4/8/86,SEA,aries
+"Bennett, Michael",72,defensive end,76,274,11/13/85,SEA,scorpio
+"Browner, Brandon",39,cornerback,76,221,8/2/84,SEA,leo
+"Bryant, Red",79,defensive end,76,323,4/18/84,SEA,aries
+"Clemons, Chris",91,defensive end,75,254,10/30/81,SEA,scorpio
+"Daniels, B.J.",5,quarterback,71,217,10/24/89,SEA,scorpio
+"Fenner, Chandler",48,cornerback,73,189,7/6/90,SEA,cancer
+"Hill, Jordan",97,defensive tackle,73,303,2/8/91,SEA,aquarius
+"Jackson, Tarvaris",7,quarterback,74,225,4/21/83,SEA,taurus
+"Lane, Jeremy",20,cornerback,72,190,7/14/90,SEA,cancer
+"Lynch, Marshawn",24,running back,71,215,4/22/86,SEA,taurus
+"Maxwell, Byron",41,cornerback,73,207,2/23/88,SEA,pisces
+"Mayowa, Benson",95,defensive end,75,252,8/3/91,SEA,leo
+"McDaniel, Tony",99,defensive tackle,79,305,1/20/85,SEA,capricorn
+"McDonald, Clinton",69,defensive tackle,74,297,1/6/87,SEA,capricorn
+"Mebane, Brandon",92,defensive tackle,73,311,1/15/85,SEA,capricorn
+"Michael, Christine",33,running back,70,221,11/9/90,SEA,scorpio
+"Scruggs, Greg",98,defensive end,75,284,8/17/90,SEA,leo
+"Sherman, Richard",25,cornerback,75,195,3/30/88,SEA,aries
+"Simon, Tharold",34,cornerback,74,202,3/6/91,SEA,pisces
+"Thurmond, Walter",28,cornerback,71,190,8/12/87,SEA,leo
+"Turbin, Robert",22,running back,70,222,12/2/89,SEA,sagittarius
+"Ware, Spencer",44,running back,70,228,11/23/91,SEA,sagittarius
+"Williams, Jesse",90,defensive tackle,75,325,11/2/90,SEA,scorpio
+"Wilson, Russell",3,quarterback,71,206,11/29/88,SEA,sagittarius
+"Abraham, John",55,defensive end,76,263,5/6/78,ARI,taurus
+"Arenas, Javier",35,cornerback,69,197,10/28/87,ARI,scorpio
+"Bethel, Justin",31,cornerback,72,200,6/17/90,ARI,gemini
+"Campbell, Calais",93,defensive end,80,300,9/1/86,ARI,virgo
+"Cason, Antoine",20,cornerback,73,195,7/9/86,ARI,cancer
+"Dockett, Darnell",90,defensive end,76,290,5/27/81,ARI,gemini
+"Ellington, Andre",38,running back,69,199,2/3/89,ARI,aquarius
+"Lindley, Ryan",14,quarterback,75,232,6/22/89,ARI,cancer
+"Mendenhall, Rashard",28,running back,70,225,6/19/87,ARI,gemini
+"Palmer, Carson",3,quarterback,77,235,12/27/79,ARI,capricorn
+"Peterson, Patrick",21,cornerback,73,219,7/11/90,ARI,cancer
+"Powers, Jerraud",25,cornerback,70,187,7/19/87,ARI,cancer
+"Rucker, Frostee",98,defensive end,75,280,9/14/83,ARI,virgo
+"Shaughnessy, Matt",91,defensive end,77,285,9/23/86,ARI,virgo
+"Smith, Alfonso",29,running back,73,209,1/23/87,ARI,aquarius
+"Stanton, Drew",5,quarterback,75,243,5/7/84,ARI,taurus
+"Talley, Ronald",96,defensive end,75,286,2/21/86,ARI,pisces
+"Taylor, Stepfan",30,running back,69,216,6/9/91,ARI,gemini
+"Thompson, Everrette",60,defensive end,78,272,12/18/89,ARI,sagittarius
+"Williams, Ryan",34,running back,69,207,4/9/90,ARI,aries
+"Banks, Johnthan",27,cornerback,74,195,10/3/89,TB,libra
+"Bowers, Da'Quan",91,defensive end,76,288,2/23/90,TB,pisces
+"Clayborn, Adrian",94,defensive end,75,280,7/6/88,TB,cancer
+"Demps, Jeff",42,running back,67,191,1/8/90,TB,capricorn
+"Gaitor, Anthony",26,cornerback,70,182,10/9/88,TB,libra
+"Gholston, William",92,defensive end,78,281,7/31/91,TB,leo
+"Gibson, Gary",95,defensive tackle,75,312,5/5/82,TB,taurus
+"Glennon, Mike",8,quarterback,78,225,12/12/89,TB,sagittarius
+"Gorrer, Danny",36,cornerback,72,180,6/1/86,TB,gemini
+"James, Mike",25,running back,70,223,4/13/91,TB,aries
+"Johnson, Leonard",29,cornerback,70,202,3/30/90,TB,aries
+"Landri, Derek",90,defensive tackle,74,290,9/21/83,TB,virgo
+"Leonard, Brian",30,running back,73,225,2/3/84,TB,aquarius
+"Martin, Doug",22,running back,69,215,1/13/89,TB,capricorn
+"McCoy, Gerald",93,defensive tackle,76,300,2/25/88,TB,pisces
+"Means, Steven",96,defensive end,75,260,12/5/89,TB,sagittarius
+"Orlovsky, Dan",6,quarterback,77,230,8/18/83,TB,leo
+"Revis, Darrelle",24,cornerback,71,198,7/14/85,TB,cancer
+"Scott, Trevor",71,defensive end,77,260,8/30/84,TB,virgo
+"Smith, Michael",34,running back,69,205,8/9/88,TB,leo
+"Spence, Akeem",97,defensive tackle,73,307,11/29/91,TB,sagittarius
+"Te'o-Nesheim, Daniel",50,defensive end,75,263,6/12/87,TB,gemini
+"Baker, Chris",92,defensive end,74,333,10/8/87,WAS,libra
+"Biggers, E.J.",30,cornerback,72,185,6/13/87,WAS,gemini
+"Bowen, Stephen",72,defensive end,77,310,3/28/84,WAS,aries
+"Carriker, Adam",94,defensive end,78,300,5/6/84,WAS,taurus
+"Cousins, Kirk",12,quarterback,75,209,8/19/88,WAS,leo
+"Crawford, Richard",20,cornerback,71,188,8/1/90,WAS,leo
+"Golston, Kedric",64,defensive end,76,318,5/30/83,WAS,gemini
+"Griffin III, Robert",10,quarterback,74,217,2/12/90,WAS,aquarius
+"Grossman, Rex",8,quarterback,73,225,8/23/80,WAS,virgo
+"Hall, DeAngelo",23,cornerback,70,193,11/19/83,WAS,scorpio
+"Helu, Roy",29,running back,71,215,12/7/88,WAS,sagittarius
+"Jenkins, Jarvis",99,defensive end,76,315,4/24/88,WAS,taurus
+"Morris, Alfred",46,running back,70,218,12/12/88,WAS,sagittarius
+"Royster, Evan",22,running back,73,216,11/26/87,WAS,sagittarius
+"Thompson, Chris",25,running back,68,187,10/20/90,WAS,libra
+"Wilson, Josh",26,cornerback,69,188,3/11/85,WAS,pisces
+"Worthington, Doug",90,defensive tackle,77,311,8/10/87,WAS,leo
+"Addison, Mario",97,defensive end,75,260,9/6/87,CAR,virgo
+"Alexander, Frank",90,defensive end,76,270,12/17/89,CAR,sagittarius
+"Anderson, Derek",3,quarterback,78,240,6/15/83,CAR,gemini
+"Barner, Kenjon",25,running back,69,190,4/28/89,CAR,taurus
+"Clausen, Jimmy",7,quarterback,74,210,9/21/87,CAR,virgo
+"Cole, Colin",91,defensive tackle,74,335,6/24/80,CAR,cancer
+"Edwards, Dwan",92,defensive tackle,75,305,5/16/81,CAR,taurus
+"Florence, Drayton",29,cornerback,72,200,12/19/80,CAR,sagittarius
+"Fua, Sione",94,defensive tackle,73,310,6/15/88,CAR,gemini
+"Gaydosh, Linden",98,defensive tackle,76,290,1/4/91,CAR,capricorn
+"Hardy, Greg",76,defensive end,76,290,7/28/88,CAR,leo
+"Horton, Wes",96,defensive end,77,265,1/18/90,CAR,capricorn
+"Johnson, Charles",95,defensive end,74,285,7/10/86,CAR,cancer
+"Lotulelei, Star",98,defensive tackle,74,315,12/20/89,CAR,sagittarius
+"Moore, D.J.",20,cornerback,69,190,3/22/87,CAR,aries
+"Munnerlyn, Captain",41,cornerback,68,195,4/10/88,CAR,aries
+"Newton, Cam",1,quarterback,77,245,5/11/89,CAR,taurus
+"Norman, Josh",24,cornerback,72,200,12/15/87,CAR,sagittarius
+"Short, Kawann",99,defensive tackle,75,310,2/2/89,CAR,aquarius
+"Smith, Armond",36,running back,69,195,5/7/86,CAR,taurus
+"Stewart, Jonathan",28,running back,70,235,3/21/87,CAR,aries
+"Thomas, Josh",22,cornerback,71,190,5/3/89,CAR,taurus
+"White, Melvin",23,cornerback,73,205,6/26/90,CAR,cancer
+"Williams, DeAngelo",34,running back,69,215,4/25/83,CAR,taurus
+"Alualu, Tyson",93,defensive end,75,295,5/12/87,JAC,taurus
+"Babin, Jason",58,defensive end,75,267,5/24/80,JAC,gemini
+"Ball, Alan",23,cornerback,74,197,3/29/85,JAC,aries
+"Blackmon, Will",24,cornerback,72,210,10/27/84,JAC,scorpio
+"Branch, Andre",90,defensive end,77,265,7/14/89,JAC,cancer
+"Deaderick, Brandon",92,defensive end,76,305,8/19/87,JAC,leo
+"Fleming, Jamell",29,cornerback,71,206,5/5/89,JAC,taurus
+"Forsett, Justin",21,running back,68,194,10/14/85,JAC,libra
+"Gabbert, Blaine",11,quarterback,76,235,10/15/89,JAC,libra
+"Gratz, Dwayne",27,cornerback,71,201,3/8/90,JAC,pisces
+"Harris, Jeremy",31,cornerback,74,185,4/26/91,JAC,taurus
+"Harris, Mike",20,cornerback,70,188,1/5/89,JAC,capricorn
+"Henne, Chad",7,quarterback,75,230,7/2/85,JAC,cancer
+"Jones, Abry",91,defensive end,76,312,9/8/91,JAC,virgo
+"Jones-Drew, Maurice",32,running back,67,210,3/23/85,JAC,aries
+"Marks, Sen'Derrick",99,defensive tackle,74,294,2/23/87,JAC,pisces
+"McCray, Demetrius",35,cornerback,72,185,5/11/91,JAC,taurus
+"Miller, Roy",97,defensive tackle,74,310,7/9/87,JAC,cancer
+"Mincey, Jeremy",94,defensive end,76,265,12/14/83,JAC,sagittarius
+"Robinson, Denard",16,running back,71,197,9/22/90,JAC,virgo
+"Stanzi, Ricky",2,quarterback,76,228,9/3/87,JAC,virgo
+"Todman, Jordan",30,running back,70,198,2/24/90,JAC,pisces
+"Bouye, A.J.",34,cornerback,72,191,8/16/91,HOU,leo
+"Crick, Jared",93,defensive end,76,285,8/21/89,HOU,leo
+"Foster, Arian",23,running back,73,227,8/24/86,HOU,virgo
+"Jackson, Kareem",25,cornerback,70,188,4/10/88,HOU,aries
+"Jamison, Tim",96,defensive end,75,287,2/26/86,HOU,pisces
+"Joseph, Johnathan",24,cornerback,71,188,4/16/84,HOU,aries
+"Keenum, Case",7,quarterback,73,205,2/17/88,HOU,aquarius
+"McCain, Brice",21,cornerback,69,187,12/10/86,HOU,sagittarius
+"McClain, Terrell",97,defensive tackle,74,293,7/20/88,HOU,cancer
+"Schaub, Matt",8,quarterback,77,235,6/25/81,HOU,cancer
+"Smith, Antonio",94,defensive end,76,289,10/21/81,HOU,libra
+"Tate, Ben",44,running back,71,217,8/21/88,HOU,leo
+"Watt, J.J.",99,defensive end,77,289,3/22/89,HOU,aries
+"Wood, Cierre",41,running back,71,215,2/21/91,HOU,pisces
+"Yates, T.J.",13,quarterback,76,217,5/28/87,HOU,gemini
